@@ -6,7 +6,7 @@ Icon
 Android App
 ![alt text](https://github.com/comancheace/Quadrapod_Mini/blob/main/Android_app.jpg?raw=true)
 
-Eletronic parts:
+Electronic parts:
 - TowerPro SG90 Servo x 8
 - M1.7 x 8mm x 60
 - Arduino R4 Minima or other Arduino board with servo connections is preferencial!
