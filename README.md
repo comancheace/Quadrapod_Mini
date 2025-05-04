@@ -1,5 +1,6 @@
 # Arduino Quadrapod Mini
-Work in progress! Kind regards!
+Work in progress! Thank you! Kind regards!
+(Please use at your own risk! Thank you!)
 
 Icon
 ![alt text](https://github.com/comancheace/Quadrapod_Mini/blob/main/icon.jpeg?raw=true)
