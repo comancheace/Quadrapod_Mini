@@ -5,5 +5,11 @@ Icon
 ![alt text](https://github.com/comancheace/Quadrapod_Mini/blob/main/icon.jpeg?raw=true)
 Android App
 ![alt text](https://github.com/comancheace/Quadrapod_Mini/blob/main/Android_app.jpg?raw=true)
+Eletronic parts:
+
+- TowerPro SG90 Servo x 8
+- M1.7 x 8mm x 60
+- Arduino R4 Minima or other Arduino with servo connections is preferencial!
+
 3D printed parts:
 https://www.thingiverse.com/thing:2311678
